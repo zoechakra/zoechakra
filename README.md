@@ -14,11 +14,11 @@ AI: Copilot, GPT Codex, Claude Opus 4.5, Lovable
 
 ## 🌟 Featured Projects
 
-### 🚗 [Large Datasets Guide](https://github.com/zoechakra/Climate-Dataset-Tutorials)
+### 🚗 [WeatherBench Tutorial](https://github.com/zoechakra/Climate-Dataset-Tutorials)
 Part 1 explains how to use big datasets and create data visualizations. 
 Part 2 teaches you how to build various time series models and how to understand their results. 
 
-### 🎮 [Machine Learning](https://github.com/zoechakra/Machine-Learning)
+### 🎮 [Machine Learning Models Library](https://github.com/zoechakra/Machine-Learning)
 This holds all the various machine learning models I've built, each with their own dataset and purpose. 
 
 ## 📫 Find Me Here
