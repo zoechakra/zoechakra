@@ -32,9 +32,7 @@ My attempt at making something smart enough to impress people.
 
 ## 📊 GitHub Vibes
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoechakra&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoechakra&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zoechakra)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🐍 Contribution Snake
 
