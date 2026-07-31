@@ -14,11 +14,11 @@ Welcome to my little corner of GitHub, where bugs are “features in progress”
 ## 🧰 My Tech Toolbox
 Here are some tools I use to make computers do things:
 
-Languages: Python, Javascript, C, C++, C#     
-Frontend: HTML, CSS, React      
-Backend: Node.js, Django, RESTful API  
-Tools: Git, Bash, VS Code, Figma   
-AI: Copilot, GPT Codex, Claude Opus 4.5, Lovable. 
+Languages: Python, Javascript, C, C++, C#       
+Frontend: HTML, CSS, React        
+Backend: Node.js, Django, RESTful API    
+Tools: Git, Bash, VS Code, Figma     
+AI: Copilot, GPT Codex, Claude Opus 4.5, Lovable       
 
 ## 🌟 Featured Projects
 
