@@ -38,7 +38,7 @@ My attempt at making something smart enough to impress people.
 
 ## 🐍 Contribution Snake
 
-![snake gif]((https://raw.githubusercontent.com/zoechakra/zoechakra/output/github-contribution-grid-snake.svg))
+![snake gif](https://raw.githubusercontent.com/zoechakra/zoechakra/output/github-contribution-grid-snake.svg)
 
 ## 🧪 Current Status
 
