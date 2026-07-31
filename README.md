@@ -1,18 +1,10 @@
 # Hey there, I'm Zoe 👋✨
 
-Welcome to my little corner of GitHub, where bugs are “features in progress” and commits happen at suspicious hours.
-
 ## 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
+ 
+I'm currently a student at JHU studying Computer Science. I'm working towards becoming a full-stack and AI native developer.
 
 ## 🧰 My Tech Toolbox
-Here are some tools I use to make computers do things:
 
 Languages: Python, Javascript, C, C++, C#       
 Frontend: HTML, CSS, React        
