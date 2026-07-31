@@ -34,6 +34,8 @@ My attempt at making something smart enough to impress people.
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zoechakra)](https://github.com/stats-organization/github-stats-extended)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoechakra&layout=compact&theme=radical)
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/zoechakra/zoechakra/output/github-contribution-grid-snake.svg)
