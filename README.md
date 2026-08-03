@@ -29,7 +29,7 @@ This holds all the various machine learning models I've built, each with their o
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=zoechakra) 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=zoechakra&count_private=true) 
 
 ## 🐍 Contribution Snake
 
